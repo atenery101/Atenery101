@@ -10,7 +10,16 @@
 
 > Este lugar de fantasía esta dirigido a amantes de los videojuegos de todas las edades y todos los niveles como si empiezan o hasta ya tienen experiencia sobre ello. Eso si, hoy en día se sigue popularizando cada vez más estos tipos de juegos "retros" sobre todo con nosotros, la generación de hoy en dia sobretodo la que vendrá más adelante habrán chicos/as que quieran aprender y ganar experiencia sobre estas maravillas. Sobre los juegos modernos, hay muchos que hoy en día han hecho un gran avance tecnológico sobretodo gráfico y tantos como nosotros la juventud tenemos nuestro aprendizaje sobre estos videojuegos de hoy en día también podemos dar experiencia a nuestros veteranos.
 
-## 
+## Oferta de Productos
+### Los principales productos que se ofrecen en el sitio web son los siguentes:
+
+- Consolas de videojuegos (Play Station, Xbox, Nintendo Switch, Consolas Retros...)
+- Juegos vendidos en nuestra tienda desde contemporáneos a de la época.
+- Les proporcionaremos links a ofertas exclusivas
+- Accesorios para nuestras consolas y nuestros PC
+
+  
+
 
 ### Encabezado 3
 
