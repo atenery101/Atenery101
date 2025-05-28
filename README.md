@@ -6,8 +6,7 @@
 
 > GameZone es un comercio especializado en videojuegos de la época de cuando éramos pequeños y los juegos que jugamos hoy en día. La oferta de esta tienda se centrará en consolas retros y modernas para aquellos interesados y veteranos en los videojuegos que necesitan y quieren practicar este pasatiempo. También les enseñaremos páginas más económicas como **Instant Gaming o Eneba** para comprar juegos como de (steam, epic game, rocket...) ya que, nosotros hacemos colaboración con ellos (Les dare el link más adelante).
 
-<img src='' alt='imagen de banner' witdth='300px'/>
-
+https://pin.it/i9thX4JNZ
 
 ## Audiencia
 
