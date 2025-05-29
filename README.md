@@ -2,17 +2,18 @@
 
 ***
 
+>:city_sunset: FRENTE DE LA GASOLINERA T-GAS, PLAZA, LOCAL 36 DERECHA, 38204 La Laguna, Santa Cruz de Tenerife
+
+>:link: www.GameZone.es
+
+>:stuck_out_tongue_winking_eye:@GameZome (Instagram)
+
+
 # Tienda sobre Consolas de la Época 
 
 > GameZone es un comercio especializado en videojuegos de la época de cuando éramos pequeños y los juegos que jugamos hoy en día. La oferta de esta tienda se centrará en consolas retros y modernas para aquellos interesados y veteranos en los videojuegos que necesitan y quieren practicar este pasatiempo. También les enseñaremos páginas más económicas como **Instant Gaming o Eneba** para comprar juegos como de (steam, epic game, rocket...) ya que, nosotros hacemos colaboración con ellos (Les dare el link más adelante).
 
-![Imagenes juego retro](https://i.blogs.es/d72e01/enrique-vidal-flores-zsxvrktsf6q-unsplash/500_333.jpeg)
-
-
-
-
-
-
+![Imagenes juego retro](https://www.shutterstock.com/image-photo/asian-young-beautiful-woman-playing-260nw-2489938329.jpg)
 
 ## Audiencia
 
@@ -35,44 +36,11 @@
 -https://www.eneba.com/es/?srsltid=AfmBOoqKYg_bXR5DEajyLDdiZ1yz7gW8ZaL7R-RfBANkhf8MWEK09n06
 
 ![Imagenes juego retro](https://play-lh.googleusercontent.com/K4a6EV4MuCPVKF7aXiRoBq-BJ-HFLyA5FDFZhdcWomt-5BobKZ5o2H8cHtgBdy9vOw)
+
+# Mejores juegos junio 2025.
+
+https://www.youtube.com/watch?v=1CqMwWtekpI
+
+![Imagenes juego retro](https://s2.dmcdn.net/u/8x02R1WAhYHcNMnpC/240x240)
+
   
-
-
-### Encabezado 3
-
-#### Encabezado 4
-
-***
-
-> Esto es una cita
-
-> Esto es otra cita
-
-> > Esto es una concatenacion
-
-Listas:
-
-- Elemento
-- Elemento
-- Elemento
-    - Subelemento
-
-***
-
-*si* (cursiva)
-
-**no** (negrita)
-
-***tal vez*** (ambas)
-
-[El texto ...](https://Zonatmo.com)
-
-Imagenes:
-
-![Imagen de pinterest](https://i.pinimg.com/736x/d2/02/14/d20214bb899b0b08ca6229d10cc0dbcd.jpg)
-
-<img src='https://i.pinimg.com/736x/d2/02/14/d20214bb899b0b08ca6229d10cc0dbcd.jpg' alt='Imagne de pinterest' witdth='300px'/>
-
-<a href='https://www.youtube.com/watch?v=IkZFOU1dwos' target='_blank'>
-<img width='30%' src='https://i.ytimg.com/an_webp/IkZFOU1dwos/mqdefault_6s.webp?du=3000&sqp=CJCg3MEG&rs=AOn4CLDBsi1MjVJmcc0tIaUtIrQLCpNDiA' alt='Los Programadores olvidan el poder del Software' />
-</a>
